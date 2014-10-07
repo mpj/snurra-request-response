@@ -16,8 +16,8 @@
     "coffee-script": "~1.7.1",
     "mout": "~0.9.1"
   },
-  "author": "Mattias Petter Johansson <mpj@spotify.com>",
-  "license": "Spotify Internal",
+  "author": "Mattias Petter Johansson <mpj@mpj.me>",
+  "license": "MIT",
   "dependencies": {
     "highland": "~2.0.0"
   }

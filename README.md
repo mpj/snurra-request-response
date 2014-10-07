@@ -1,4 +1,4 @@
-spotify-request-response
+snurra-request-response
 ==========================
 
 Snurra add-on that provides a request/response pattern API.
