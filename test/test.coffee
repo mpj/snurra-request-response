@@ -1,7 +1,3 @@
-sinon = require 'sinon'
-chai = require 'chai'
-expect = chai.expect
-chai.should()
 _ = require 'highland'
 assert = require 'assert'
 deepMatches = require 'mout/object/deepMatches'

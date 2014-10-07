@@ -1,4 +1,4 @@
-spotify-virtual-songs-list
+spotify-request-response
 ==========================
 
-A wrapper around spotify-live and spotify-events that adds support for incrementally loading lists.
+Snurra add-on that provides a request/response pattern API.
