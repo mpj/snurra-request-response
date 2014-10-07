@@ -1,6 +1,6 @@
 {
   "name": "snurra-request-response",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Snurra add-on that provides a request/response pattern API",
   "main": "index.js",
   "scripts": {
